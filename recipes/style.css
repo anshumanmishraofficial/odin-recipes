@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(173, 241, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(194, 14, 53);
+    font-size: 30px;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+.dish {
+    color: rgb(34, 25, 89);
+    font-size: 50px;
+}
+
+h2,
+h3 {
+    font-size: 38px;
+    color: rgba(79, 87, 6, 0.8);
+}
+
+.about {
+    text-align: center;
+}
+
+.units {
+    font-size: 25px;
+    color: black;
+}
+
+.process {
+    font-size: 28px;
+    color: #5a3b50;
+    font-weight: 800;
+}
